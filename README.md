@@ -41,7 +41,7 @@ The Power BI report is structured into four interactive pages, each designed to 
 * Forecasting: Applied Power BI's built-in forecasting capabilities to **predict life expectancy and disease rates for forthcoming years**.
 * Dashboard Design: Focused on intuitive navigation, consistent thematic formatting, and clear data storytelling across all four pages.
 
-5. How to View the Report
+5. To View the Report
 
 To fully interact with this dashboard, please follow these steps:
 
