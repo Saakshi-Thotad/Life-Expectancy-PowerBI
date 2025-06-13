@@ -45,7 +45,7 @@ The Power BI report is structured into four interactive pages, each designed to 
 
 To fully interact with this dashboard, please follow these steps:
 
-1.  Download Power BI Desktop: If you don't have it already, download the free Power BI Desktop application from the Microsoft website.
-2.  Clone/Download Repository: Clone this repository or download the `.pbix` file directly.
-3.  Open in Power BI Desktop: Open the `Life Expectancy Data.pbix` file using Power BI Desktop.
-4.  Interact: All slicers, play axes, and visual filters will be fully functional for an immersive data exploration experience.
+* Download Power BI Desktop: If you don't have it already, download the free Power BI Desktop application from the Microsoft website.
+* Clone/Download Repository: Clone this repository or download the `.pbix` file directly.
+* Open in Power BI Desktop: Open the `Life Expectancy Data.pbix` file using Power BI Desktop.
+* Interact: All slicers, play axes, and visual filters will be fully functional for an immersive data exploration experience.
