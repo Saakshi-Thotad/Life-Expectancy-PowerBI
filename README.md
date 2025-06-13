@@ -1,5 +1,5 @@
 # Life-Expectancy-PowerBI
-A Power BI project performing analysis on life expectancy(WHO) data, exploring global health factors, disease patterns, and and future forecasts.
+A Power BI project performing analysis on life expectancy(WHO) data, exploring global health factors, disease patterns, and future forecasts.
 
 This repository hosts a comprehensive and interactive Power BI dashboard designed to analyze global life expectancy trends and key public health determinants.
 
