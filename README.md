@@ -12,7 +12,7 @@ This repository hosts a comprehensive and interactive Power BI dashboard designe
 * Description:The dataset contains various health and socio-economic factors for numerous countries over several years, crucial for understanding global health outcomes.
 
 3. Key Features of the Dashboard
-The Power BI report is structured into four interactive pages, each designed to provide specific insights:
+* The Power BI report is structured into four interactive pages, each designed to provide specific insights:
     
     Country Health Overview:
 * Presents an executive summary with key performance indicators (KPIs) for life expectancy, GDP, schooling, and population.
