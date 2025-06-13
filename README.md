@@ -43,7 +43,7 @@ This repository hosts a comprehensive and interactive Power BI dashboard designe
 
 5. To View the Report
 
-To fully interact with this dashboard, please follow these steps:
+    To fully interact with this dashboard, please follow these steps:
 
 * Download Power BI Desktop: If you don't have it already, download the free Power BI Desktop application from the Microsoft website.
 * Clone/Download Repository: Clone this repository or download the `.pbix` file directly.
