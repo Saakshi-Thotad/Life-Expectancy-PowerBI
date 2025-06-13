@@ -4,7 +4,7 @@ A Power BI project performing analysis on life expectancy(WHO) data, exploring g
 This repository hosts a comprehensive and interactive Power BI dashboard designed to analyze global life expectancy trends and key public health determinants.
 
 1. Project Overview:
-The dashboard was developed to explore historical data, identify influencing factors, and predict future trends in life expectancy and disease prevalence worldwide. It provides a multi-faceted view of global health, integrating demographic, socio-economic, and disease-specific indicators.
+* The dashboard was developed to explore historical data, identify influencing factors, and predict future trends in life expectancy and disease prevalence worldwide. It provides a multi-faceted view of global health, integrating demographic, socio-economic, and disease-specific indicators.
 
 2. Dataset
 * Source:https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
@@ -14,7 +14,7 @@ The dashboard was developed to explore historical data, identify influencing fac
 3. Key Features of the Dashboard
 The Power BI report is structured into four interactive pages, each designed to provide specific insights:
     
-Country Health Overview:
+    Country Health Overview:
 * Presents an executive summary with key performance indicators (KPIs) for life expectancy, GDP, schooling, and population.
 * Includes geographical analysis (filled maps) and country-level comparisons.
 * Provides a snapshot of average disease burdens (HIV, Diphtheria, Hepatitis, Measles, Polio) for selected periods.
