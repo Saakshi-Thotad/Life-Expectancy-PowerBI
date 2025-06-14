@@ -46,6 +46,6 @@ This repository hosts a comprehensive and interactive Power BI dashboard designe
     To fully interact with this dashboard, please follow these steps:
 
 * Download Power BI Desktop: If you don't have it already, download the free Power BI Desktop application from the Microsoft website.
-* Clone/Download Repository: Clone this repository or download the `.pbix` file directly.
+* Download Repository: Download the `Life Expectancy Data.pbix` file.
 * Open in Power BI Desktop: Open the `Life Expectancy Data.pbix` file using Power BI Desktop.
 * Interact: All slicers, play axes, and visual filters will be fully functional for an immersive data exploration experience.
